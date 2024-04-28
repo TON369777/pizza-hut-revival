@@ -20,7 +20,7 @@ https://www.abs.gov.au/statistics/standards/australian-statistical-geography-sta
 
 ## Visualising Data
 
-Store location data set with coordinates were used to visualise store locations through arcGIS map visual in Power BI with ABS SA2 Regional Population Data as reference layer. Opportities for expansion would be identified by identifying areas with no pizza franchise presence and with 19 000+ population (denoted by dark blue colour).
+Store location data set with coordinates were used to visualise store locations through arcGIS map visual in Power BI with ABS SA2 Regional Population Data as reference layer. Opportunities for expansion would be identified by identifying areas with no pizza franchise presence and with 19 000+ population (denoted by dark blue colour).
 
 ![image](https://github.com/TON369777/pizza-hut-revival/assets/156875448/9869ad73-17a8-450f-9341-895b5f256cbd)
 
