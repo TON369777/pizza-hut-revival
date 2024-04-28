@@ -14,6 +14,8 @@ Store location details were sourced through web scrapping Pizza Hut and Domino's
 
 The addresses were then converted to longitude and latitude coordinates through geopy library in Python through the arcGIS API. This is so that PowerBI could more accurately map store locations through the arcGIS map visual rather than just using addresses.
 
+![image](https://github.com/TON369777/pizza-hut-revival/assets/156875448/01b6eb23-cad9-4ddc-bb52-81ca60ca53f1)
+
 ABS SA2 Regional Population Data was then used to overlay the map as a reference layer so that opportunities could be identified based on areas that had 19 000+ population.
 SA2 (Statistical Area Level 2) is a special classification by ABS. In short, SA2 has been designed to cover all over Australia and differs to PostCodes as PostCode does not have complete coverage of Australia. LGA could have been used as well by covers a much larger area often involving multiple suburbs whereas SA2 is more specific. 
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/statistical-area-level-2
