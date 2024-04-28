@@ -26,6 +26,8 @@ Store location data set with coordinates were used to visualise store locations 
 
 ![image](https://github.com/TON369777/pizza-hut-revival/assets/156875448/9869ad73-17a8-450f-9341-895b5f256cbd)
 
+![image](https://github.com/TON369777/pizza-hut-revival/assets/156875448/8453767c-26d5-41ec-a133-83b3e6d5a68a)
+
 ## Other Statistics
 
 Other statistics were also obtained through the scrapped data set. This includes proportion of fast food pizza stores by franchise and how many stores in total and proportion by franchise in each state of Australia. Business stakeholders have option to slice and filter charts by state and franchise.
